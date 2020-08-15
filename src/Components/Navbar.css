@@ -1,0 +1,14 @@
+ul {
+  background-color: #231883;
+  height: 50px;
+}
+
+li {
+  margin: 20px;
+  display: inline;
+  color: white;
+  font-size: 40px;
+}
+h1 {
+  color: red;
+}
